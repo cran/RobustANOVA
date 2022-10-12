@@ -1,0 +1,5 @@
+export("RW","RGF","RPB")
+exportPattern("peak_discharge")
+importFrom("stats", rchisq, pf, qchisq, model.frame, rnorm)
+importFrom("PEIP", tinv)
+importFrom("optimbase", ones)
