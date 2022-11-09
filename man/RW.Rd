@@ -41,7 +41,7 @@ A list with class "\code{htest}" containing the following components:
 }
 
 \references{
-G. Guven, S. Acitas, and B. Senoglu, B. RobustANOVA: An R Package for one-way ANOVA under heteroscedasticity and nonnormality. \emph{RJournal}, 2022 (submitted).
+G. Guven, S. Acitas, and B. Senoglu, B. RobustANOVA: An R Package for one-way ANOVA under heteroscedasticity and nonnormality. \emph{Journal of Statistical Software}, 2022 (submitted).
 
 M. L. Tiku. Estimating the mean and standard deviation from a censored normal sample. \emph{Biometrika}, 54:155-165, 1967.
 
