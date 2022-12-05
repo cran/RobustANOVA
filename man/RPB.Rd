@@ -28,7 +28,7 @@ A list with class "\code{htest}" containing the following components:
 }
 
 \references{
-G. Guven, S. Acitas, and B. Senoglu, B. RobustANOVA: An R Package for one-way ANOVA under heteroscedasticity and nonnormality. \emph{Journal of Statistical Software}, 2022 (submitted).
+G. Guven, S. Acitas, and B. Senoglu, B. RobustANOVA: An R Package for one-way ANOVA under heteroscedasticity and nonnormality. \emph{Under review}, 2022.
 
 K. Krishnamoorthy, F. Lu, and T. Mathew. A parametric bootstrap approach for anova with unequal
 variances: Fixed and random models. \emph{Computational Statistics & Data Analysis}, 51(12): 5731-5742,2007.

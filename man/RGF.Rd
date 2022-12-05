@@ -26,7 +26,7 @@ A list with class "\code{htest}" containing the following components:
   \item{formula}{a formula of the form left-hand-side\code{(lhs)} ~ right-hand-side\code{(rhs)}. \code{lhs} shows the observed values and \code{rhs} shows the group corresponding to the observed values.}
 }
 \references{
-G. Guven, S. Acitas and B. Senoglu, B. RobustANOVA: An R Package for one-way ANOVA under heteroscedasticity and nonnormality. \emph{Journal of Statistical Software}, 2022 (submitted).
+G. Guven, S. Acitas and B. Senoglu, B. RobustANOVA: An R Package for one-way ANOVA under heteroscedasticity and nonnormality. \emph{Under review}, 2022.
 
 M. L. Tiku. Estimating the mean and standard deviation from a censored normal sample. \emph{Biometrika}, 54:155-165, 1967.
 

@@ -2,7 +2,7 @@ Package: RobustANOVA
 Type: Package
 Title: Robust One-Way ANOVA Tests under Heteroscedasticity and
         Nonnormality
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: c(person("Gamze", "Guven", role = c("aut", "cre"),
                      email = "gamzeguven@ogu.edu.tr"),
               person("Sukru", "Acitas", role = c("aut"),
@@ -18,6 +18,6 @@ License: GPL (>= 3)
 Imports: stats, PEIP, optimbase
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2022-11-08 11:14:13 UTC; sukruacitas
+Packaged: 2022-12-05 13:57:17 UTC; sukruacitas
 Repository: CRAN
-Date/Publication: 2022-11-09 14:10:02 UTC
+Date/Publication: 2022-12-05 19:42:31 UTC
